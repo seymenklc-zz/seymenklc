@@ -2,11 +2,9 @@
 
 I'm a student at Turkey and my major is Management Information Systems. Currently learning everything about MERN Stack!
 
-### Connect with me:
+### :mailbox: Connect with me:
 
-![Twitter Badge](https://img.shields.io/badge/-@seymennklc-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/seymennklc)
 
-<br />
 
 #### Top Technologies
 
