@@ -3,7 +3,7 @@
 ## I'm a student at Turkey and my major is Management Information Systems
 
 - 🌱 I’m currently learning everything about MERN Stack 
-- 🥅 Goals: To become a full stack web developer
+- 🥅 Goals: Becoming a full stack web developer
 
 ### Connect with me:
 
