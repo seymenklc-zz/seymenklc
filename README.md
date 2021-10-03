@@ -3,7 +3,7 @@
 I'm a student at Turkey and my major is Management Information Systems. 
 Currently learning everything about MERN Stack!
 
-### :mailbox: Connect with me:
+### :mailbox: Connect with me
 
 [![Twitter Badge](https://img.shields.io/badge/-@seymennklc-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/seymennklc)](https://twitter.com/seymennklc) [![Linkedin Badge](https://img.shields.io/badge/-Seymen-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seymenkilic/) [![Mail Badge](https://img.shields.io/badge/-seymennklc-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:seymennklc@gmail.com)
 
