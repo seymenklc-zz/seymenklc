@@ -6,7 +6,7 @@ I'm a student at Turkey and my major is Management Information Systems. Currentl
 
 [![Twitter Badge](https://img.shields.io/badge/-@seymennklc-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/seymennklc)](https://twitter.com/seymennklc) [![Linkedin Badge](https://img.shields.io/badge/-Seymen-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seymenkilic/) [![Mail Badge](https://img.shields.io/badge/-seymennklc-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:seymennklc@gmail.com)
 
-#### Top Technologies
+#### Top Technologies I Use
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
