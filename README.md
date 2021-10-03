@@ -4,8 +4,7 @@ I'm a student at Turkey and my major is Management Information Systems. Currentl
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Twitter Badge](https://img.shields.io/badge/-@seymennklc-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/seymennklc)]
 
 <br />
 
@@ -37,7 +36,3 @@ I'm a student at Turkey and my major is Management Information Systems. Currentl
 
 <br />
 <br />
-
-
-[twitter]: https://twitter.com/seymennklc
-[linkedin]: https://www.linkedin.com/in/seymenkilic/
